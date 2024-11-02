@@ -1,0 +1,201 @@
+Serial Number,Title,Year,Age Certification,IMDb rating,Revenue (in Crores INR),Netflix,Zee5,Jio Cinema,Prime Video,Disney+ Hotstar,Director Name,Genres,Language,Runtime (minutes)
+1,Pathaan,2023,UA,5.9,1050.3,Yes,No,No,Yes,No,Siddharth Anand,Action/Thriller,Hindi,146
+2,Jawan,2023,UA,7,1148.32,Yes,No,No,No,No,Atlee,Action/Thriller,Hindi,169
+3,Animal,2023,A,6.4,896.63,No,No,No,Yes,No,Sandeep Reddy Vanga,Action/Crime/Drama,Hindi,201
+4,Rocky Aur Rani Kii Prem Kahaani,2023,UA,6.9,355.61,Yes,No,No,No,No,Karan Johar,Romance/Drama,Hindi,168
+5,OMG 2,2023,A,7.5,221.75,No,No,No,Yes,No,Amit Rai,Comedy/Drama,Hindi,156
+6,Ponniyin Selvan: II,2023,UA,7.2,344,Yes,No,No,No,Yes,Mani Ratnam,Historical/Drama,Tamil,164
+7,Bholaa,2023,UA,6.3,120,No,Yes,No,No,No,Ajay Devgn,Action/Adventure,Hindi,144
+8,Adipurush,2023,UA,3.9,350,No,No,Yes,No,No,Om Raut,Mythological/Action,Hindi,179
+9,Zara Hatke Zara Bachke,2023,UA,6.2,115.89,No,No,No,Yes,No,Laxman Utekar,Romance/Comedy,Hindi,132
+10,Satyaprem Ki Katha,2023,UA,7,110,Yes,No,No,No,No,Sameer Vidwans,Romance/Drama,Hindi,146
+11,Kisi Ka Bhai Kisi Ki Jaan,2023,UA,4,182.44,No,Yes,No,No,No,Farhad Samji,Action/Comedy,Hindi,145
+12,Tu Jhoothi Main Makkaar,2023,UA,6.3,223,Yes,No,No,No,No,Luv Ranjan,Romance/Comedy,Hindi,164
+13,Mission Majnu,2023,UA,7.1,15,Yes,No,No,No,No,Shantanu Bagchi,Thriller/Action,Hindi,129
+14,Chor Nikal Ke Bhaga,2023,UA,7,15,Yes,No,No,No,No,Ajay Singh,Thriller,Hindi,110
+15,Gaslight,2023,UA,5.6,15,No,No,No,No,Yes,Pavan Kirpalani,Thriller/Mystery,Hindi,111
+16,Kuttey,2023,A,6.3,4.65,No,No,No,Yes,No,Aasmaan Bhardwaj,Crime/Thriller,Hindi,112
+17,Selfiee,2023,UA,5.1,23.45,No,No,No,No,Yes,Raj Mehta,Comedy/Drama,Hindi,148
+18,Shehzada,2023,UA,4.3,46.82,No,No,Yes,No,No,Rohit Dhawan,Action/Comedy,Hindi,142
+19,Mrs Chatterjee Vs Norway,2023,UA,7.7,33.25,Yes,No,No,No,No,Ashima Chibber,Drama,Hindi,133
+20,The Kerala Story,2023,A,7.3,303.97,No,Yes,No,No,No,Sudipto Sen,Drama,Hindi,138
+21,2018,2023,UA,8.2,175,No,No,No,Yes,No,Jude Anthany Joseph,Drama/Thriller,Malayalam,150
+22,Jailer,2023,UA,7.1,650,Yes,No,No,No,No,Nelson Dilipkumar,Action/Drama,Tamil,168
+23,Leo,2023,UA,7.3,608,No,Yes,No,No,No,Lokesh Kanagaraj,Action/Thriller,Tamil,164
+24,Varisu,2023,UA,6.1,310,Yes,No,No,No,No,Vamshi Paidipally,Drama/Action,Tamil,169
+25,Kantara,2023,UA,8.3,400,Yes,No,No,No,No,Rishab Shetty,Action/Thriller,Kannada,150
+26,Pushpa 2: The Rule,2024,UA,5,15,No,No,No,Yes,No,Sukumar,Action/Crime,Telugu,180
+27,Salaar,2023,UA,6.9,700,No,No,Yes,No,No,Prashanth Neel,Action/Thriller,Telugu,175
+28,RRR,2023,UA,7.8,1200,Yes,No,No,No,No,S.S. Rajamouli,Action/Drama,Telugu,187
+29,Laapataa Ladies,2024,UA,8.1,15,No,No,No,Yes,No,Kiran Rao,Comedy/Drama,Hindi,117
+30,Maidaan,2024,UA,5,15,No,Yes,No,No,No,Amit Ravindernath Sharma,Sports/Biopic,Hindi,155
+31,Yodha,2024,UA,5,15,No,No,No,Yes,No,Sagar Ambre,Action/Thriller,Hindi,146
+32,Bade Miyan Chote Miyan,2024,UA,5,15,No,No,Yes,No,No,Ali Abbas Zafar,Action/Comedy,Hindi,165
+33,Singham Again,2024,UA,5,15,No,Yes,No,No,No,Rohit Shetty,Action,Hindi,150
+34,Chhaava,2024,UA,5,15,Yes,No,No,No,No,Laxman Utekar,Historical/Drama,Marathi,160
+35,Devara,2024,UA,5,15,No,No,No,Yes,No,Koratala Siva,Action/Drama,Telugu,170
+36,Indian 2,2024,UA,5,150,No,No,No,No,Yes,S. Shankar,Action/Thriller,Tamil,175
+37,Kalki 2898 AD,2024,UA,5,1500,Yes,No,No,No,No,Nag Ashwin,Sci-Fi/Action,Telugu,180
+38,GOAT,2024,UA,5,90,No,Yes,No,No,No,Venkat Prabhu,Action/Thriller,Tamil,165
+39,Thug Life,2024,UA,5,12,No,No,Yes,No,No,Mrighdeep Singh Lamba,Comedy/Crime,Hindi,140
+40,Stree 2,2024,UA,5,5,No,No,No,Yes,No,Amar Kaushik,Horror/Comedy,Hindi,135
+41,Bastar: The Naxal Story,2024,A,5,90,No,Yes,No,No,No,Sudipto Sen,Drama/Thriller,Hindi,145
+42,Sambhaji,2024,UA,5,284,Yes,No,No,No,No,Prakash Bhalekar,Historical/Drama,Marathi,170
+43,Guntur Kaaram,2024,UA,5.3,19,No,No,No,Yes,No,Trivikram Srinivas,Action/Drama,Telugu,162
+44,Hi Nanna,2023,UA,7.8,100,Yes,No,No,No,No,Shouryuv,Drama/Romance,Telugu,156
+45,Kanguva,2024,UA,5,10,No,Yes,No,No,No,Siva,Action/Historical,Tamil,175
+46,Lal Salaam,2024,UA,5,3,No,No,Yes,No,No,Aishwarya Rajinikanth,Sports/Drama,Tamil,153
+47,Teri Baaton Mein Aisa Uljha Jiya,2024,UA,6.4,300,No,No,No,Yes,No,Amit Joshi,Romance/Sci-Fi,Hindi,143
+48,Manjummel Boys,2024,UA,8.8,90,Yes,No,No,No,No,Chidambaram,Thriller/Drama,Malayalam,140
+49,Premalu,2024,UA,8.1,90,No,Yes,No,No,No,Girish A. D.,Romance/Comedy,Malayalam,157
+50,Bramayugam,2024,UA,7.6,90,No,No,No,Yes,No,Rahul Sadasivan,Horror/Thriller,Malayalam,127
+51,Ooru Peru Bhairavakona,2024,UA,6.2,90,No,No,Yes,No,No,Vi Anand,Horror/Fantasy,Telugu,139
+52,Crew,2024,UA,5,190,Yes,No,No,No,No,Rajesh Krishnan,Comedy/Heist,Hindi,145
+53,Tillu Square,2024,UA,5,173,No,Yes,No,No,No,Mallik Ram,Comedy/Romance,Telugu,135
+54,Ruslaan,2024,UA,5,324,No,No,No,Yes,No,Karan Razdan,Action/Thriller,Hindi,150
+55,Amar Singh Chamkila,2024,UA,5,454,Yes,No,No,No,No,Imtiaz Ali,Biopic/Musical,Hindi,155
+56,Aadujeevitham,2024,UA,9.1,23,No,No,Yes,No,No,Blessy,Drama/Survival,Malayalam,170
+57,Hanu-Man,2024,UA,7.7,23,No,Yes,No,No,No,Prasanth Varma,Superhero/Action,Telugu,158
+58,Captain Miller,2024,UA,6.5,2300,Yes,No,No,No,No,Arun Matheswaran,Action/Period,Tamil,153
+59,Ayalaan,2024,UA,5.8,1,No,No,No,Yes,No,R. Ravikumar,Sci-Fi/Comedy,Tamil,155
+60,Michael,2023,UA,5.2,60,No,Yes,No,No,No,Ranjit Jeyakodi,Action/Thriller,Telugu,155
+61,Dasara,2023,UA,6.9,125,Yes,No,No,No,No,Srikanth Odela,Action/Drama,Telugu,157
+62,Vaathi,2023,UA,7.3,95,No,No,Yes,No,No,Venky Atluri,Drama,Tamil,139
+63,Waltair Veerayya,2023,UA,6.2,225,No,Yes,No,No,No,K. S. Ravindra,Action/Comedy,Telugu,163
+64,Thunivu,2023,UA,6.2,200,Yes,No,No,No,No,H. Vinoth,Action/Thriller,Tamil,146
+65,Custody,2023,UA,5.5,30,No,No,No,Yes,No,Venkat Prabhu,Action/Thriller,Telugu,145
+66,Maaveeran,2023,UA,7.5,60,No,Yes,No,No,No,Madonne Ashwin,Action/Satire,Tamil,163
+67,Trigger,2023,UA,6.8,13,Yes,No,No,No,No,Sam Anton,Action/Thriller,Tamil,139
+68,Viduthalai Part 1,2023,UA,8.3,75,No,No,Yes,No,No,Vetrimaaran,Drama/Thriller,Tamil,150
+69,Gumraah,2023,UA,5.7,90,No,Yes,No,No,No,Vardhan Ketkar,Thriller,Hindi,127
+70,Sirf Ek Bandaa Kaafi Hai,2023,UA,8.7,83,Yes,No,No,No,No,Apoorv Singh Karki,Drama/Legal,Hindi,132
+71,Dhoomam,2023,UA,6.8,43,No,No,No,Yes,No,Pawan Kumar,Thriller,Malayalam,150
+72,Kushi,2023,UA,6.1,70,No,Yes,No,No,No,Shiva Nirvana,Romance,Telugu,162
+73,Drishyam 2,2023,UA,8,340,Yes,No,No,No,No,Abhishek Pathak,Thriller,Hindi,140
+74,Varun Doctor,2023,UA,6.5,36,No,No,Yes,No,No,Vijay Kumar Konda,Action/Comedy,Telugu,145
+75,Por Thozhil,2023,UA,8.3,3,No,Yes,No,No,No,R. Saravanan,Crime/Thriller,Tamil,147
+76,Bro,2023,UA,5.5,40,Yes,No,No,No,No,Samuthirakani,Comedy/Drama,Telugu,133
+77,Kaathal - The Core,2023,UA,7.8,1,No,No,No,Yes,No,Jeo Baby,Drama,Malayalam,135
+78,Irugapatru,2023,UA,7.9,5,No,Yes,No,No,No,Yuvaraj Dhayalan,Drama,Tamil,145
+79,Guthlee Ladoo,2023,UA,8.4,99,Yes,No,No,No,No,Ishrat R. Khan,Drama,Hindi,110
+80,Maamannan,2023,UA,7.2,50,No,No,Yes,No,No,Mari Selvaraj,Political Drama,Tamil,157
+81,Amigos,2023,UA,5.2,15,No,Yes,No,No,No,Rajendra Reddy,Thriller,Telugu,137
+82,Nanpakal Nerathu Mayakkam,2023,UA,7.5,88,Yes,No,No,No,No,Lijo Jose Pellissery,Drama,Malayalam,108
+83,Romancham,2023,UA,7.8,25,No,No,No,Yes,No,Jithu Madhavan,Horror Comedy,Malayalam,135
+84,Vaathi/Sir,2023,UA,7.3,95,No,Yes,No,No,No,Venky Atluri,Drama,Tamil/Telugu,139
+85,Vedha,2023,A,6.1,12,Yes,No,No,No,No,A. Harsha,Action Thriller,Kannada,147
+86,Kabzaa,2023,UA,5.2,80,No,No,Yes,No,No,R. Chandru,Action Crime,Kannada,135
+87,Thugs,2023,A,5.8,10,No,Yes,No,No,No,Brinda,Comedy Thriller,Tamil,122
+88,Kasargold,2023,UA,6.2,6,Yes,No,No,No,No,Mridul Nair,Crime Thriller,Malayalam,138
+89,Dada,2023,UA,8.1,20,No,No,No,Yes,No,Ganesh K Babu,Drama,Tamil,132
+90,Purusha Pretham,2023,UA,7.4,20,No,Yes,No,No,No,Krishand,Mystery Comedy,Malayalam,122
+91,Chatrapathi,2023,UA,3.6,10,Yes,No,No,No,No,V. V. Vinayak,Action Drama,Hindi,144
+92,Kisi Ka Bhai Kisi Ki Jaan,2023,UA,4,182.44,No,No,Yes,No,No,Farhad Samji,Action Comedy,Hindi,145
+93,Ponniyin Selvan: II,2023,UA,7.2,344,Yes,No,No,No,No,Mani Ratnam,Historical Drama,Tamil,164
+94,Virupaksha,2023,UA,7.4,100,No,Yes,No,No,No,Karthik Varma Dandu,Supernatural Thriller,Telugu,134
+95,Sita Ramam,2023,UA,8,100,Yes,No,No,No,No,Hanu Raghavapudi,Romantic Drama,Telugu,163
+96,Thankam,2023,UA,7.3,20,No,No,No,Yes,No,Saheed Arafath,Crime Drama,Malayalam,145
+97,Kuttavum Shikshayum,2023,UA,6.9,20,No,Yes,No,No,No,Rajeev Ravi,Crime Drama,Malayalam,138
+98,Raangi,2023,UA,5.1,20,Yes,No,No,No,No,M. Saravanan,Action Thriller,Tamil,124
+99,Varalaru Mukkiyam,2023,UA,5,20,No,No,Yes,No,No,Santhosh Rajan,Comedy Drama,Tamil,130
+100,Thalaikoothal,2023,UA,7.7,20,No,Yes,No,No,No,Jayaprakash Radhakrishnan,Drama,Tamil,130
+101,Ayisha,2023,UA,6.5,20,Yes,No,No,No,No,Aamir Pallikkal,Drama,Malayalam,128
+102,Laila Majnu,2023,UA,7.1,20,No,No,No,Yes,No,Avinash Das,Romantic Drama,Hindi,135
+103,Vaashi,2023,UA,6.4,20,No,Yes,No,No,No,Vishnu G Raghav,Legal Drama,Malayalam,120
+104,Kaapa,2023,UA,6,20,Yes,No,No,No,No,Shaji Kailas,Crime Thriller,Malayalam,145
+105,Phantom,2023,UA,7.1,75,No,No,Yes,No,No,Anup Bhandari,Action Adventure,Kannada,155
+106,Nanna Prakara,2023,UA,7.5,20,No,Yes,No,No,No,Vinay Balaji,Thriller,Kannada,130
+107,Malikappuram,2023,UA,7.4,50,Yes,No,No,No,No,Vishnu Sasi Shankar,Drama,Malayalam,144
+108,Dasara,2023,UA,6.9,125,No,No,No,Yes,No,Srikanth Odela,Action Drama,Telugu,157
+109,Shaakuntalam,2023,UA,4.8,30,No,Yes,No,No,No,Gunasekhar,Mythological Drama,Telugu,134
+110,Karthikeya 2,2023,UA,7.3,120,Yes,No,No,No,No,Chandoo Mondeti,Mystery Thriller,Telugu,150
+111,Vaathi/Sir,2023,UA,7.3,95,No,No,Yes,No,No,Venky Atluri,Drama,Tamil/Telugu,139
+112,Custody,2023,UA,5.5,30,No,Yes,No,No,No,Venkat Prabhu,Action Thriller,Telugu,145
+113,Pathu Thala,2023,UA,6.5,50,Yes,No,No,No,No,Obeli N. Krishna,Action Crime,Tamil,152
+114,Thunivu,2023,UA,6.2,200,No,No,No,Yes,No,H. Vinoth,Action Thriller,Tamil,146
+115,Varisu,2023,UA,6.1,310,No,Yes,No,No,No,Vamshi Paidipally,Drama Action,Tamil,169
+116,Waltair Veerayya,2023,UA,6.2,225,Yes,No,No,No,No,K. S. Ravindra,Action Comedy,Telugu,163
+117,Veera Simha Reddy,2023,UA,5.3,125,No,No,Yes,No,No,Gopichand Malineni,Action Drama,Telugu,170
+118,Varasudu,2023,UA,6.1,310,No,Yes,No,No,No,Vamshi Paidipally,Drama Action,Telugu,169
+119,Tegimpu,2023,UA,6.2,200,Yes,No,No,No,No,H. Vinoth,Action Thriller,Telugu,146
+120,Ori Devuda,2023,UA,7,20,No,No,No,Yes,No,Ashwath Marimuthu,Romantic Comedy,Telugu,138
+121,Ranga Ranga Vaibhavanga,2023,UA,5.3,20,Yes,No,No,No,No,Gireesaaya,Romantic Comedy,Telugu,134
+122,Thiruchitrambalam,2023,UA,7.5,105,No,Yes,No,No,No,Mithran R Jawahar,Romantic Comedy,Tamil,140
+123,Kodiyil Oruvan,2023,UA,7,20,No,No,Yes,No,No,Ananda Krishnan,Political Thriller,Tamil,152
+124,Acharya,2023,UA,4.1,140,Yes,No,No,No,No,Koratala Siva,Action Drama,Telugu,175
+125,Bheemla Nayak,2023,UA,7.3,200,No,No,No,Yes,No,Saagar K Chandra,Action Drama,Telugu,145
+126,Hridayam,2023,UA,8.1,50,No,Yes,No,No,No,Vineeth Sreenivasan,Coming-of-age Drama,Malayalam,172
+127,Vikrant Rona,2023,UA,6.6,200,Yes,No,No,No,No,Anup Bhandari,Action Adventure,Kannada,147
+128,Akhanda,2023,UA,6.7,200,No,No,Yes,No,No,Boyapati Srinu,Action Drama,Telugu,167
+129,Cobra,2023,UA,5.7,40,No,Yes,No,No,No,R. Ajay Gnanamuthu,Thriller,Tamil,183
+130,Ante Sundaraniki,2023,UA,7.5,60,Yes,No,No,No,No,Vivek Athreya,Romantic Comedy,Telugu,176
+131,Karthikeya 2,2023,UA,7.3,120,No,No,No,Yes,No,Chandoo Mondeti,Mythological Thriller,Telugu,150
+132,Kaduva,2023,UA,6.5,50,No,Yes,No,No,No,Shaji Kailas,Action Drama,Malayalam,155
+133,Pathan,2024,UA,5,20,Yes,No,No,No,No,Siddharth Anand,Action Thriller,Hindi,150
+134,Laal Singh Chaddha,2023,UA,5.8,211,No,No,Yes,No,No,Advait Chandan,Drama,Hindi,159
+135,Gangubai Kathiawadi,2023,UA,7.8,209,Yes,No,No,No,No,Sanjay Leela Bhansali,Biographical Drama,Hindi,152
+136,Cirkus,2023,UA,4.1,20,No,Yes,No,No,No,Rohit Shetty,Comedy,Hindi,138
+137,Tadap,2023,UA,5.2,20,No,No,No,Yes,No,Milan Luthria,Romantic Action,Hindi,130
+138,Radhe Shyam,2023,UA,5.2,300,Yes,No,No,No,No,Radha Krishna Kumar,Romantic Drama,Telugu/Hindi,138
+139,Bhool Bhulaiyaa 2,2023,UA,5.7,266,No,No,Yes,No,No,Anees Bazmee,Horror Comedy,Hindi,143
+140,Raksha Bandhan,2023,UA,5.6,20,No,Yes,No,No,No,Aanand L. Rai,Comedy Drama,Hindi,110
+141,Jhund,2023,UA,7.3,20,Yes,No,No,No,No,Nagraj Manjule,Biographical Sports Drama,Hindi,178
+142,Shamshera,2023,UA,4.8,20,No,No,No,Yes,No,Karan Malhotra,Period Action,Hindi,159
+143,Bachchhan Paandey,2023,UA,4.7,20,No,Yes,No,No,No,Farhad Samji,Action Comedy,Hindi,146
+144,Runway 34,2023,UA,6.9,20,Yes,No,No,No,No,Ajay Devgn,Thriller,Hindi,148
+145,Vikram Vedha,2023,UA,7.1,20,No,No,Yes,No,No,Pushkar–Gayathri,Action Thriller,Hindi,159
+146,Rocketry: The Nambi Effect,2023,UA,8.8,50,No,Yes,No,No,No,R. Madhavan,Biographical Drama,Hindi/English/Tamil,157
+147,Kantara,2023,UA,8.3,400,Yes,No,No,No,No,Rishab Shetty,Action Thriller,Kannada,150
+148,Major,2023,UA,8.1,66,No,No,No,Yes,No,Sashi Kiran Tikka,Biographical Action,Telugu/Hindi,150
+149,Liger,2023,UA,3.9,28,No,Yes,No,No,No,Puri Jagannadh,Sports Action,Telugu/Hindi,140
+150,Godfather,2023,UA,6,28,Yes,No,No,No,No,Mohan Raja,Political Thriller,Telugu,157
+151,Bhediya,2023,UA,6.8,28,No,No,Yes,No,No,Amar Kaushik,Comedy Horror,Hindi,156
+152,Dasvi,2023,UA,7,28,No,Yes,No,No,No,Tushar Jalota,Social Comedy,Hindi,125
+153,Khuda Haafiz: Chapter 2,2023,UA,6.4,76,Yes,No,No,No,No,Faruk Kabir,Action Thriller,Hindi,145
+154,Ek Villain Returns,2023,UA,4.8,76,No,No,No,Yes,No,Mohit Suri,Action Thriller,Hindi,129
+155,Nikamma,2023,UA,3.3,76,No,Yes,No,No,No,Sabbir Khan,Action Comedy,Hindi,147
+156,Dhokha: Round D Corner,2023,UA,6.4,34,Yes,No,No,No,No,Kookie Gulati,Thriller,Hindi,112
+157,Lust Stories 2,2023,A,5.2,34,No,No,Yes,No,No,R. Balki,Anthology Drama,Hindi,132
+158,Cuttputlli,2023,UA,6.3,34,No,Yes,No,No,No,Ranjit M Tewari,Crime Thriller,Hindi,134
+159,Govinda Naam Mera,2023,UA,5.6,34,Yes,No,No,No,No,Shashank Khaitan,Comedy Thriller,Hindi,131
+160,Freddy,2023,UA,6.4,90,No,No,No,Yes,No,Shashanka Ghosh,Psychological Thriller,Hindi,124
+161,Love Today,2023,UA,8,120,Yes,No,No,No,No,Pradeep Ranganathan,Romantic Comedy,Tamil,152
+162,Good Night,2023,UA,7.5,30,No,No,No,Yes,No,Vinayak Chandrasekaran,Romantic Comedy,Tamil,143
+163,Por Thozhil,2023,UA,8.3,25,No,No,No,Yes,No,R. Saravanan,Crime Thriller,Tamil,147
+164,Ayothi,2023,UA,7.8,5,No,Yes,No,No,No,R. Manthira Moorthy,Drama,Tamil,122
+165,Yaathisai,2023,UA,7.2,3,Yes,No,No,No,No,Dharani Rasendran,Drama,Tamil,130
+166,Bommai Nayagi,2023,UA,7,2,No,No,Yes,No,No,Shan,Drama,Tamil,120
+167,Veeran,2023,UA,6.5,15,No,No,No,Yes,No,ARK Saravan,Action Fantasy,Tamil,150
+168,Yaadhum Oore Yaavarum Kelir,2023,UA,7.7,4,No,Yes,No,No,No,Vijay Sri G,Drama,Tamil,137
+169,Parking,2023,UA,7.3,8,Yes,No,No,No,No,Ramkumar Balakrishnan,Thriller,Tamil,130
+170,Kasethan Kadavulada,2023,UA,6.8,10,No,No,No,Yes,No,R. Kannan,Comedy,Tamil,140
+171,Dada,2023,UA,8.1,20,No,No,Yes,No,No,Ganesh K Babu,Drama,Tamil,132
+172,Viduthalai Part 1,2023,UA,8.3,75,Yes,No,No,No,No,Vetrimaaran,Drama Thriller,Tamil,150
+173,Takkar,2023,UA,6.5,5,No,Yes,No,No,No,Karthik G. Krish,Action Thriller,Tamil,138
+174,Koorman,2023,UA,6.7,7,No,No,No,Yes,No,Anand Ravichandran,Crime Thriller,Tamil,134
+175,Theal,2023,UA,6.9,6,Yes,No,No,No,No,Harikumar,Drama,Tamil,145
+176,Theerpugal Virkapadum,2023,UA,7.1,3,No,No,Yes,No,No,Dheeran,Thriller,Tamil,128
+177,Lalagunda Bommaigal,2023,UA,6.6,2,No,Yes,No,No,No,P. Subramaniam,Comedy Drama,Tamil,135
+178,Aneethi,2023,UA,7,4,Yes,No,No,No,No,V.C. Vadivudaiyan,Action Thriller,Tamil,142
+179,Vasantha Mullai,2023,UA,6.8,3,No,No,No,Yes,No,Ramanan Purushothama,Thriller,Tamil,130
+180,Adrishyam,2023,UA,7.2,5,No,No,Yes,No,No,Zac Harriss,Thriller,Tamil,140
+181,Malai,2024,UA,7.5,15,Yes,No,No,No,No,Bejoy Nambiar,Adventure Drama,Tamil,155
+182,Siren,2024,UA,7.3,20,No,Yes,No,No,No,Antony Sony,Thriller,Malayalam,140
+183,Thankam,2023,UA,7.3,12,No,No,No,Yes,No,Saheed Arafath,Crime Drama,Malayalam,145
+184,Iratta,2023,UA,7.8,10,Yes,No,No,No,No,Rohith V.S.,Crime Thriller,Malayalam,135
+185,Aadhaar,2023,UA,7.1,5,No,No,Yes,No,No,Sathyan Anthikad,Drama,Malayalam,150
+186,Pranaya Vilasam,2023,UA,7,3,No,Yes,No,No,No,Nikhil Muraly,Romantic Comedy,Malayalam,132
+187,Vaashi,2023,UA,6.4,8,Yes,No,No,No,No,Vishnu G Raghav,Legal Drama,Malayalam,120
+188,Pakalum Paathiraavum,2023,UA,7.2,6,No,No,No,Yes,No,Arun Kumar Aravind,Thriller,Malayalam,138
+189,Enkilum Chandrike,2023,UA,6.9,4,No,No,Yes,No,No,Adithyan Chandrasekhar,Romantic Comedy,Malayalam,130
+190,Thattassery Koottam,2023,UA,6.7,5,Yes,No,No,No,No,Anoop Padmanabhan,Comedy Drama,Malayalam,135
+191,Ntikkakkakkoru Premondarnn,2023,UA,7.4,7,No,Yes,No,No,No,Adhil Maimoonath Asharaf,Romantic Drama,Malayalam,145
+192,Momo in Dubai,2023,UA,6.5,3,No,No,No,Yes,No,Ameen Aslam,Comedy Drama,Malayalam,128
+193,Anweshippin Kandethum,2024,UA,7.7,15,Yes,No,No,No,No,Darwin Kuriakose,Crime Thriller,Malayalam,150
+194,Otta,2024,UA,7.2,8,No,No,Yes,No,No,Shaji Kailas,Action Thriller,Malayalam,140
+195,Abraham Ozler,2024,UA,7.8,25,No,Yes,No,No,No,Midhun Manuel Thomas,Crime Thriller,Malayalam,155
+196,Kaathal - The Core,2023,UA,7.8,10,Yes,No,No,No,No,Jeo Baby,Drama,Malayalam,135
+197,Corona Papers,2023,UA,6.9,4,No,No,No,Yes,No,Priyadarshan,Comedy Drama,Malayalam,130
+198,Garudan,2023,UA,7.5,12,No,No,Yes,No,No,Arun Varma,Thriller,Malayalam,142
+199,Madhura Manohara Moham,2023,UA,7.1,6,Yes,No,No,No,No,Stephy Zaviour,Romantic Comedy,Malayalam,135
+200,Maheshum Marutiyum,2023,UA,7,5,No,Yes,No,No,No,Sethu,Comedy Drama,Malayalam,130
